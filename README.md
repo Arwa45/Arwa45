@@ -3,7 +3,7 @@
 
 - 🏫 I’m a third year student at the faculty of computers and data science
 
-- 🔭 I’m currently working on **educational chat bot**
+- 🔭 I’m currently working on **improving my skills**
 
 - 📫 How to reach me **roromadien15@gmail.com**
 
