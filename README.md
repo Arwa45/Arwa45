@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arwa Ahmed</h1>
 <h3 align="center">Interested in web development and data science.</h3>
 
-- 🏫 I’m a second year student at the faculty of computers and data science
+- 🏫 I’m a third year student at the faculty of computers and data science
 
 - 🔭 I’m currently working on **educational chat bot**
 
